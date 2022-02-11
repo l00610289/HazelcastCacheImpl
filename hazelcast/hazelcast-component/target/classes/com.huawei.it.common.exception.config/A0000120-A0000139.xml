@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exceptions>
+	<!-- 1.编码区间：A0000120-A0000139 -->
+	<!-- 2.编码描述：该区间编码可用于infinispan-component，属于私有编码-->
+	<!-- 3.注意事项：请按顺序命名编码，否则造成编码重复，无法获取异常描述 -->
+
+</exceptions>
